@@ -47,6 +47,7 @@ exports[`App has a valid snapshot 1`] = `
             type="button"
           >
             Title
+            <span />
           </button>
         </span>
         <span
@@ -62,6 +63,7 @@ exports[`App has a valid snapshot 1`] = `
             type="button"
           >
             Author
+            <span />
           </button>
         </span>
         <span
@@ -77,6 +79,7 @@ exports[`App has a valid snapshot 1`] = `
             type="button"
           >
             Comments
+            <span />
           </button>
         </span>
         <span
@@ -92,6 +95,7 @@ exports[`App has a valid snapshot 1`] = `
             type="button"
           >
             Points
+            <span />
           </button>
         </span>
         <span
@@ -173,11 +177,12 @@ exports[`Table has a valid snapshot 1`] = `
       }
     >
       <button
-        className="button-inline button-active"
+        className="button-inline"
         onClick={[Function]}
         type="button"
       >
         Title
+        <span />
       </button>
     </span>
     <span
@@ -193,6 +198,7 @@ exports[`Table has a valid snapshot 1`] = `
         type="button"
       >
         Author
+        <span />
       </button>
     </span>
     <span
@@ -208,6 +214,7 @@ exports[`Table has a valid snapshot 1`] = `
         type="button"
       >
         Comments
+        <span />
       </button>
     </span>
     <span
@@ -223,6 +230,7 @@ exports[`Table has a valid snapshot 1`] = `
         type="button"
       >
         Points
+        <span />
       </button>
     </span>
     <span
